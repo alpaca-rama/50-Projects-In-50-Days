@@ -4,10 +4,43 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Website Ttile</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js" integrity="sha256-KzZiKy0DWYsnwMF+X1DvQngQ2/FxF7MF3Ff72XcpuPs=" crossorigin="anonymous"></script>
+    <title>Background Slider</title>
     <script defer src="script.js"></script>
 </head>
 <body>
-    <h1>Heading</h1>
+    <div class="slider-container">
+        <div 
+            class="slide active" 
+            style="background-image: url('https://images.unsplash.com/photo-1549880338-65ddcdfd017b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80')">
+        </div>
+
+        <div
+            class="slide"
+            style="background-image: url('https://images.unsplash.com/photo-1511593358241-7eea1f3c84e5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=80');">
+        </div>
+
+        <div
+            class="slide"
+            style="background-image: url('https://images.unsplash.com/photo-1495467033336-2effd8753d51?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80');">
+        </div>
+
+        <div
+            class="slide"
+            style="background-image: url('https://images.unsplash.com/photo-1522735338363-cc7313be0ae0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2689&q=80');">
+        </div>
+
+        <div
+            class="slide"
+            style="background-image: url('https://images.unsplash.com/photo-1559087867-ce4c91325525?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80');">
+        </div>
+
+        <button class="arrow left-arrow" id="left">
+            <i class="fas fa-arrow-left" id="left"></i>
+        </button>
+        <button class="arrow right-arrow" id="right">
+            <i class="fas fa-arrow-right" id="right"></i>
+        </button>
+    </div>
 </body>
 </html>
