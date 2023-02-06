@@ -4,10 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Website Ttile</title>
+    <title>Theme Clock</title>
     <script defer src="script.js"></script>
 </head>
 <body>
-    <h1>Heading</h1>
+    <button class="toggle">Dark mode</button>
+    
+    <div class="clock-container">
+        <div class="clock">
+            <div class="needle hour"></div>
+            <div class="needle minute"></div>
+            <div class="needle second"></div>
+            <div class="center-point"></div>
+        </div>
+
+        <div class="time">12:00</div>
+        <div class="date">Monday, Nov <span class="circle">2</span></div>
+    </div>
 </body>
 </html>
