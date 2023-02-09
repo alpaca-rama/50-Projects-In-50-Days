@@ -62,7 +62,33 @@ function drawLine(x1, y1, x2, y2) {
     ctx.stroke()
 }
 
+function updateSizeOnScreen() {
+    sizeEl.innerText = size
+}
+
 // drawCircle(100, 200)
 // drawLine(300, 300, 350, 400)
 
+increaseBtn.addEventListener('click', () => {
+    size += 5
+
+    if (size > 50) {
+        size = 50
+    }
+
+    updateSizeOnScreen()
+})
+
+decreaseBtn.addEventListener('click', () => {
+    size -= 5
+
+    if (size < 5) {
+        size = 5
+    }
+
+    updateSizeOnScreen()
+})
+
 colorEl.addEventListener('change', (e) => color = e.target.value)
+
+clearEl.addEventListener('click', (e) => ctx.clearRect(0, 0, canvas.width, canvas.height))
