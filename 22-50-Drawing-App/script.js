@@ -10,7 +10,7 @@ const ctx = canvas.getContext('2d')
 let x
 let y
 let isPressed = false
-let size = 20
+let size = 10
 let color = 'black'
 
 canvas.addEventListener('mousedown', (e) => {
@@ -65,7 +65,4 @@ function drawLine(x1, y1, x2, y2) {
 // drawCircle(100, 200)
 // drawLine(300, 300, 350, 400)
 
-colorEl.addEventListener('change', (e) => {
-    // color = e.target.value
-    console.log(color)
-})
+colorEl.addEventListener('change', (e) => color = e.target.value)
