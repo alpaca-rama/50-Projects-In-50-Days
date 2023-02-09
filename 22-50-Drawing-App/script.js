@@ -1,5 +1,11 @@
-const canvas = document.getElementById("canvas");
-const ctx = canvas.getContext("2d");
+const canvas = document.getElementById('canvas');
+const increaseBtn = document.getElementById('increase');
+const decreaseBtn = document.getElementById('decrease');
+const sizeEl = document.getElementById('size');
+const colorEl = document.getElementById('color');
+const clearEl = document.getElementById('clear');
+
+const ctx = canvas.getContext('2d');
 
 let x
 let y
@@ -58,3 +64,7 @@ function drawLine(x1, y1, x2, y2) {
 
 // drawCircle(100, 200)
 // drawLine(300, 300, 350, 400)
+
+colorEl.addEventListener('change', (e) => {
+    color = e.target.value
+})
