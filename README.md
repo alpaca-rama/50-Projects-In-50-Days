@@ -1,3 +1,7 @@
+# 50-Projects-In-50-Days
+A course by Brad Traversy
+
+
 # 24-50-Content-Placeholder
 A project using HTML, CSS and JS to create placeholders for content upon loading a page.
 
