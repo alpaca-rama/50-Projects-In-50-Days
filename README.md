@@ -134,6 +134,13 @@ Made with HTML, CSS and JS.
 ![chrome-capture-2023-1-16 (18)](https://user-images.githubusercontent.com/110612670/219411255-626640f1-4759-4a3c-897c-d0aea310fd57.gif)
 #
 
+# [19-of-50-Theme-Clock](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/19-50-Theme-Clock)
+A HTML, CSS and JS clock project, that pulls the date from Date().
+There is a toggle button which toggle a dark and light mode.
+
+![chrome-capture-2023-1-16 (19)](https://user-images.githubusercontent.com/110612670/219412439-c34c3799-96f7-46f3-be36-ac3d9e25b064.gif)
+#
+
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
 A project using HTML, CSS and JS to create placeholders for content upon loading a page.
 
