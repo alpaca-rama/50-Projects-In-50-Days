@@ -155,7 +155,7 @@ Allow movement of these draggable images.
 
 Show states of these draggable images.
 
-![Screen Recording 2023-02-16 at 17 45 08](https://user-images.githubusercontent.com/110612670/219419736-d05e4f71-ca92-424d-b2ed-7303864602af.gif)
+https://user-images.githubusercontent.com/110612670/219420905-c6436277-6410-4e0a-863d-727f1c22a705.mov
 #
 
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
