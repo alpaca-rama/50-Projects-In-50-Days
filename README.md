@@ -14,6 +14,12 @@ Expanding cards that use an active class to shift between the focus of the card.
 ![chrome-capture-2023-1-16 (2)](https://user-images.githubusercontent.com/110612670/219336120-4e725125-b981-4040-8363-a289ad5dc050.gif)
 #
 
+# [TM_3-of-50-Rotating-Navigation](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/03-50-Rotating-Navigation)
+ This project creates a rotating menu that pans in on the side and is created with HTML, CSS and JS.
+ 
+![chrome-capture-2023-1-16 (3)](https://user-images.githubusercontent.com/110612670/219338340-b096d394-8d25-4b6f-a57a-034e812b204c.gif)
+#
+
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
 A project using HTML, CSS and JS to create placeholders for content upon loading a page.
 
