@@ -127,6 +127,13 @@ Made with HTML, CSS and JS.
 ![chrome-capture-2023-1-16 (17)](https://user-images.githubusercontent.com/110612670/219409438-516686bd-bca8-40ec-90c0-edb4c7ad19fb.gif)
 #
 
+# [18-of-50-Background-Slider](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/18-50-Background-Slider)
+A background slider that has an overlay of the same image that gives the illusion that they are the same image.
+Made with HTML, CSS and JS.
+
+![chrome-capture-2023-1-16 (18)](https://user-images.githubusercontent.com/110612670/219411255-626640f1-4759-4a3c-897c-d0aea310fd57.gif)
+#
+
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
 A project using HTML, CSS and JS to create placeholders for content upon loading a page.
 
