@@ -58,6 +58,15 @@ This project was built with HTML, CSS and JS.
  ![chrome-capture-2023-1-16 (8)](https://user-images.githubusercontent.com/110612670/219349705-73b9822f-54d4-4a59-9728-a35da58c7e9c.gif)
 #
 
+# [TM_9-50-Sound Board](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/09-50-Sound-Board)
+A soundboard with different sounds attatched to multiple buttons that play upon being pressed.
+This project was created with HTML, CSS and JS.
+
+To hear the sound, try the project out for yourself.
+
+<img width="1440" alt="Screenshot 2023-02-16 at 13 19 33" src="https://user-images.githubusercontent.com/110612670/219351496-41feaadc-ff3d-4b32-ab0b-62e9f93a8534.png">
+#
+
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
 A project using HTML, CSS and JS to create placeholders for content upon loading a page.
 
