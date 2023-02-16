@@ -67,6 +67,13 @@ To hear the sound, try the project out for yourself.
 <img width="1440" alt="Screenshot 2023-02-16 at 13 19 33" src="https://user-images.githubusercontent.com/110612670/219351496-41feaadc-ff3d-4b32-ab0b-62e9f93a8534.png">
 #
 
+# [10-50-Dad-Jokes](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/10-50-Dad-Jokes)
+ A project that pulls jokes from an API and displays them to the user upon clicking the button.
+ This project is built with HTML, CSS and JS.
+ 
+ ![chrome-capture-2023-1-16 (9)](https://user-images.githubusercontent.com/110612670/219352871-7fb7d011-8862-4163-a2c4-771f71cae787.gif)
+ #
+
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
 A project using HTML, CSS and JS to create placeholders for content upon loading a page.
 
