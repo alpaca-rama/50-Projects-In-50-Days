@@ -158,6 +158,12 @@ Show states of these draggable images.
 https://user-images.githubusercontent.com/110612670/219420905-c6436277-6410-4e0a-863d-727f1c22a705.mov
 #
 
+# [22-50-Drawing-App](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/22-50-Drawing-App)
+A drawing web based application that can do strokes of different sizes and colors using HTML, css and JS.
+
+![chrome-capture-2023-1-16 (21)](https://user-images.githubusercontent.com/110612670/219422050-733e2f54-bbf8-497b-8a98-9d18a34ccd0a.gif)
+#
+
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
 A project using HTML, CSS and JS to create placeholders for content upon loading a page.
 
