@@ -44,6 +44,13 @@ This project is built with HTML, CSS and JS.
 ![chrome-capture-2023-1-16 (6)](https://user-images.githubusercontent.com/110612670/219345448-8429e07d-ca10-4ce1-af77-a34680950518.gif)
 #
 
+# [07-50-Split-Landing-Page](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/07-50-Split-Landing-Page)
+This project creates a split landing page, with hover expanding sections.
+This project was built with HTML, CSS and JS.
+
+![chrome-capture-2023-1-16 (7)](https://user-images.githubusercontent.com/110612670/219348280-bb86b93d-de42-4c67-a615-2d8b63a035c3.gif)
+#
+
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
 A project using HTML, CSS and JS to create placeholders for content upon loading a page.
 
