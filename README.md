@@ -2,22 +2,29 @@
 A course by Brad Traversy
 #
 
-# [TM_1-of-50-Expanding-Cards](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/01-50-Expanding-Cards)
+# [01-of-50-Expanding-Cards](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/01-50-Expanding-Cards)
 Expanding cards that use an active class to shift between the focus of the card.
 
 ![chrome-capture-2023-1-16 (1)](https://user-images.githubusercontent.com/110612670/219333744-4cd22bd3-3aaf-4985-802b-6d0e1d9bf34c.gif)
 #
 
-# [TM_2-of-50-Progress-Steps](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/02-50-Progress-Steps)
+# [02-of-50-Progress-Steps](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/02-50-Progress-Steps)
  A progress step that can be utilised with forms, etc.
 
 ![chrome-capture-2023-1-16 (2)](https://user-images.githubusercontent.com/110612670/219336120-4e725125-b981-4040-8363-a289ad5dc050.gif)
 #
 
-# [TM_3-of-50-Rotating-Navigation](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/03-50-Rotating-Navigation)
+# [03-of-50-Rotating-Navigation](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/03-50-Rotating-Navigation)
  This project creates a rotating menu that pans in on the side and is created with HTML, CSS and JS.
  
 ![chrome-capture-2023-1-16 (3)](https://user-images.githubusercontent.com/110612670/219338340-b096d394-8d25-4b6f-a57a-034e812b204c.gif)
+#
+
+# [04-of-50-Hidden-Search-Widget](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/04-50-Hidden-Search-Widget)
+ A hidden search widget that slides the search area out upon being clicked.
+ This project was build using HTML, CSS and JS.
+
+![chrome-capture-2023-1-16 (4)](https://user-images.githubusercontent.com/110612670/219339160-5eb314c1-d2a6-4351-90f3-325a19412851.gif)
 #
 
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
