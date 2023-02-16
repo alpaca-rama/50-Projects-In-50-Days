@@ -37,6 +37,13 @@ The project is built with HTML, CSS and JS.
 ![chrome-capture-2023-1-16 (5)](https://user-images.githubusercontent.com/110612670/219341762-3ea243e1-8c37-4fb6-a651-1dff2670c6f9.gif)
 #
 
+# [06-of-50-Scroll-Animation](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/06-50-Scroll-Animation)
+This project demonstrates how to do slide in animations from scrolling.
+This project is built with HTML, CSS and JS.
+
+![chrome-capture-2023-1-16 (6)](https://user-images.githubusercontent.com/110612670/219345448-8429e07d-ca10-4ce1-af77-a34680950518.gif)
+#
+
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
 A project using HTML, CSS and JS to create placeholders for content upon loading a page.
 
