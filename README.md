@@ -105,6 +105,13 @@ Made with HTML, CSS and JS.
 ![chrome-capture-2023-1-16 (13)](https://user-images.githubusercontent.com/110612670/219399670-48cfb29a-d3c4-4cb1-b84e-0b169af5bf9b.gif)
 #
 
+# [15-50-Incrementing-Counter](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/15-50-Incrementing-Counter)
+ An incremental counter to display a number of a certain aspects you wish to display in a neat way.
+ Made with HTML, CSS and JS.
+
+![chrome-capture-2023-1-16 (14)](https://user-images.githubusercontent.com/110612670/219400728-5155d473-ad8a-421a-9f0e-d5d3c38b8390.gif)
+#
+
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
 A project using HTML, CSS and JS to create placeholders for content upon loading a page.
 
