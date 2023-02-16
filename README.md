@@ -51,6 +51,13 @@ This project was built with HTML, CSS and JS.
 ![chrome-capture-2023-1-16 (7)](https://user-images.githubusercontent.com/110612670/219348280-bb86b93d-de42-4c67-a615-2d8b63a035c3.gif)
 #
 
+# [08-50-Form-Wave-Animation](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/08-50-From-Wave-Animation)
+ A project to create a wave animation on the form label.
+ This project was created with HTML, CSS and JS.
+ 
+ ![chrome-capture-2023-1-16 (8)](https://user-images.githubusercontent.com/110612670/219349705-73b9822f-54d4-4a59-9728-a35da58c7e9c.gif)
+#
+
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
 A project using HTML, CSS and JS to create placeholders for content upon loading a page.
 
