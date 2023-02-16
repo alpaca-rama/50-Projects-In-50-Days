@@ -1,4 +1,4 @@
-# TM_9-50-Sound Board
+# 09-50-Sound Board
 A soundboard with different sounds attatched to multiple buttons that play upon being pressed.
 This project was created with HTML, CSS and JS.
 
