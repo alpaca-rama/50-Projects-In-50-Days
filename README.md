@@ -112,6 +112,13 @@ Made with HTML, CSS and JS.
 ![chrome-capture-2023-1-16 (14)](https://user-images.githubusercontent.com/110612670/219400728-5155d473-ad8a-421a-9f0e-d5d3c38b8390.gif)
 #
 
+# [16-50-Drink-Water](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/16-50-Drink-Water)
+ A water drinking tracker.
+ Made with HTML, CSS and JS.
+ 
+ ![chrome-capture-2023-1-16 (15)](https://user-images.githubusercontent.com/110612670/219402454-21dc8e91-7714-4e15-9675-b59d58a78697.gif)
+ #
+
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
 A project using HTML, CSS and JS to create placeholders for content upon loading a page.
 
