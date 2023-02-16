@@ -91,11 +91,18 @@ Made with HTML, CSS and JS.
 ![chrome-capture-2023-1-16 (11)](https://user-images.githubusercontent.com/110612670/219391071-b7eb0018-a6ff-4afc-a308-b5a02f60c4dd.gif)
 #
 
-# 13-50-Random-Choice-Picker
+# [13-50-Random-Choice-Picker](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/13-50-Random-Choice-Picker)
  Add your choice you wish to be randomized, seperated by a comma and the push enter to get a random result.
 Made with HTML, CSS and JS.
 
 ![chrome-capture-2023-1-16 (12)](https://user-images.githubusercontent.com/110612670/219394744-e1ce1236-aa39-46c3-bc50-0609bde7444b.gif)
+#
+
+# [14-50-Animated-Navigation](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/14-50-Animated-Navigation)
+ An animated slide out menu from an icon.
+ Written in HTML, CSS and JS.
+
+![chrome-capture-2023-1-16 (13)](https://user-images.githubusercontent.com/110612670/219399670-48cfb29a-d3c4-4cb1-b84e-0b169af5bf9b.gif)
 #
 
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
