@@ -41,7 +41,8 @@ function randomSelect() {
     // Test if the enter works correctly
     // console.log(123)
 
-    const times = 100
+    // Change the amount of times the random occurs
+    const times = 20
 
     const interval = setInterval(() => {
         const randomTag = pickRandomTag()
