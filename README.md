@@ -84,6 +84,13 @@ To hear the sound, try the project out for yourself.
 ![chrome-capture-2023-1-16 (10)](https://user-images.githubusercontent.com/110612670/219353998-6acdd772-5620-46f5-8806-e3ec5cb078da.gif)
 #
 
+# [12-50-FAQ-Collapse](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/12-50-FAQ-Collapse)
+A custom made accordian FAQ section.
+Made with HTML, CSS and JS.
+
+![chrome-capture-2023-1-16 (11)](https://user-images.githubusercontent.com/110612670/219391071-b7eb0018-a6ff-4afc-a308-b5a02f60c4dd.gif)
+#
+
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
 A project using HTML, CSS and JS to create placeholders for content upon loading a page.
 
