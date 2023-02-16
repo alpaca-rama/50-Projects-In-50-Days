@@ -141,6 +141,13 @@ There is a toggle button which toggle a dark and light mode.
 ![chrome-capture-2023-1-16 (19)](https://user-images.githubusercontent.com/110612670/219412439-c34c3799-96f7-46f3-be36-ac3d9e25b064.gif)
 #
 
+# [20-50-Button-Ripple-Effect](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/20-50-Button-Ripple-Effect)
+This project uses HTML, CSS and JS to create a ripple effect when clicking the button. 
+The origin point of the reflect is dependent on where the user clicks the button.
+
+![chrome-capture-2023-1-16 (20)](https://user-images.githubusercontent.com/110612670/219413858-1a57bcb4-51e6-4cf0-9722-efdd6cf18678.gif)
+#
+
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
 A project using HTML, CSS and JS to create placeholders for content upon loading a page.
 
