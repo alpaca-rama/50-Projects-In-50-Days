@@ -118,6 +118,14 @@ Made with HTML, CSS and JS.
  
  ![chrome-capture-2023-1-16 (15)](https://user-images.githubusercontent.com/110612670/219402454-21dc8e91-7714-4e15-9675-b59d58a78697.gif)
  #
+ 
+ # TM_17-of-50-Movie-App
+A movie website that pull movie information from an API to display 20 movies.
+There is a basic search functionality, that pulls movies with contain the term that was searched for (up to 20 results).
+Made with HTML, CSS and JS.
+
+![chrome-capture-2023-1-16 (17)](https://user-images.githubusercontent.com/110612670/219409438-516686bd-bca8-40ec-90c0-edb4c7ad19fb.gif)
+#
 
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
 A project using HTML, CSS and JS to create placeholders for content upon loading a page.
