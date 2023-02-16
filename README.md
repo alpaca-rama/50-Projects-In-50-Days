@@ -5,6 +5,9 @@ A course by [Brad Traversy](https://www.traversymedia.com)
 This course is on [Udemy](https://www.udemy.com/course/50-projects-50-days/)
 #
 
+View the projects below:
+#
+
 # [01-of-50-Expanding-Cards](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/01-50-Expanding-Cards)
 Expanding cards that use an active class to shift between the focus of the card.
 
