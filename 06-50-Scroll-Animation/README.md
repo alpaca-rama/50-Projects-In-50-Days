@@ -1,4 +1,4 @@
-# TM_6-of-50-Scroll-Animation
+# 06-of-50-Scroll-Animation
 This project demonstrates how to do slide in animations from scrolling.
 This project is built with HTML, CSS and JS.
 
