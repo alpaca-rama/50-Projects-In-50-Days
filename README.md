@@ -164,6 +164,13 @@ A drawing web based application that can do strokes of different sizes and color
 ![chrome-capture-2023-1-16 (21)](https://user-images.githubusercontent.com/110612670/219422050-733e2f54-bbf8-497b-8a98-9d18a34ccd0a.gif)
 #
 
+# [23-50-Kinetic-CSS-Loader](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/23-50-Kinetic-CSS-Loader)
+A kinetic CSS loader that could be used for page transitions.
+Made with HTML and CSS.
+
+![chrome-capture-2023-1-16 (22)](https://user-images.githubusercontent.com/110612670/219423368-11357238-d57d-4aec-a5d5-822d94bfeec4.gif)
+#
+
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
 A project using HTML, CSS and JS to create placeholders for content upon loading a page.
 
