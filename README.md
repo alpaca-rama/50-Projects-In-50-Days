@@ -1,5 +1,8 @@
 # 50-Projects-In-50-Days
-A course by Brad Traversy
+A course by [Brad Traversy](https://www.traversymedia.com)
+
+
+This course is on [Udemy](https://www.udemy.com/course/50-projects-50-days/)
 #
 
 # [01-of-50-Expanding-Cards](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/01-50-Expanding-Cards)
@@ -25,6 +28,13 @@ Expanding cards that use an active class to shift between the focus of the card.
  This project was build using HTML, CSS and JS.
 
 ![chrome-capture-2023-1-16 (4)](https://user-images.githubusercontent.com/110612670/219339160-5eb314c1-d2a6-4351-90f3-325a19412851.gif)
+#
+
+# [05-of-50-Blurry-Loading](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/05-50-Blurry-Loading)
+A blurry loading screen that counts down the percentage of loading clearing up the image as the progress increases.
+The project is built with HTML, CSS and JS.
+
+![chrome-capture-2023-1-16 (5)](https://user-images.githubusercontent.com/110612670/219341762-3ea243e1-8c37-4fb6-a651-1dff2670c6f9.gif)
 #
 
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
