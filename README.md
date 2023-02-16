@@ -73,6 +73,13 @@ To hear the sound, try the project out for yourself.
  
  ![chrome-capture-2023-1-16 (9)](https://user-images.githubusercontent.com/110612670/219352871-7fb7d011-8862-4163-a2c4-771f71cae787.gif)
  #
+ 
+# [11-50-Event-KeyCodes](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/11-50-Event-KeyCodes)
+ A project that displays the event key, event key code, and event code, of a key being pressed on the keyboard.
+ This project is built with HTML, CSS and JS.
+
+![chrome-capture-2023-1-16 (10)](https://user-images.githubusercontent.com/110612670/219353998-6acdd772-5620-46f5-8806-e3ec5cb078da.gif)
+#
 
 # [24-50-Content-Placeholder](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/24-50-Content-Placeholder)
 A project using HTML, CSS and JS to create placeholders for content upon loading a page.
