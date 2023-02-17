@@ -137,6 +137,8 @@ A movie website that pull movie information from an API to display 20 movies.
 
 There is a basic search functionality, that pulls movies with contain the term that was searched for (up to 20 results).
 
+Using the [themoviedv API](https://www.themoviedb.org/)
+
 Made with HTML, CSS and JS.
 
 ![chrome-capture-2023-1-16 (17)](https://user-images.githubusercontent.com/110612670/219409438-516686bd-bca8-40ec-90c0-edb4c7ad19fb.gif)
@@ -218,7 +220,7 @@ This is just to show an example of how you could go about it.
 #
 
 ## [28-50-Github-Profiles](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/28-50-Github-Profiles)
-A project that pull Github profiles and their repos using the Github API and controlling it with Axios.
+A project that pull Github profiles and their repos using the Github API and controlling it with [Axios](https://cdnjs.com/libraries/axios).
 
 Built with HTML, CSS and JS.
 
