@@ -28,6 +28,7 @@ Expanding cards that use an active class to shift between the focus of the card.
 
 ## [04-of-50-Hidden-Search-Widget](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/04-50-Hidden-Search-Widget)
  A hidden search widget that slides the search area out upon being clicked.
+ 
  This project was build using HTML, CSS and JS.
 
 ![chrome-capture-2023-1-16 (4)](https://user-images.githubusercontent.com/110612670/219339160-5eb314c1-d2a6-4351-90f3-325a19412851.gif)
@@ -35,6 +36,7 @@ Expanding cards that use an active class to shift between the focus of the card.
 
 ## [05-of-50-Blurry-Loading](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/05-50-Blurry-Loading)
 A blurry loading screen that counts down the percentage of loading clearing up the image as the progress increases.
+
 The project is built with HTML, CSS and JS.
 
 ![chrome-capture-2023-1-16 (5)](https://user-images.githubusercontent.com/110612670/219341762-3ea243e1-8c37-4fb6-a651-1dff2670c6f9.gif)
@@ -42,6 +44,7 @@ The project is built with HTML, CSS and JS.
 
 ## [06-of-50-Scroll-Animation](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/06-50-Scroll-Animation)
 This project demonstrates how to do slide in animations from scrolling.
+
 This project is built with HTML, CSS and JS.
 
 ![chrome-capture-2023-1-16 (6)](https://user-images.githubusercontent.com/110612670/219345448-8429e07d-ca10-4ce1-af77-a34680950518.gif)
@@ -49,6 +52,7 @@ This project is built with HTML, CSS and JS.
 
 ## [07-50-Split-Landing-Page](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/07-50-Split-Landing-Page)
 This project creates a split landing page, with hover expanding sections.
+
 This project was built with HTML, CSS and JS.
 
 ![chrome-capture-2023-1-16 (7)](https://user-images.githubusercontent.com/110612670/219348280-bb86b93d-de42-4c67-a615-2d8b63a035c3.gif)
@@ -56,6 +60,7 @@ This project was built with HTML, CSS and JS.
 
 ## [08-50-Form-Wave-Animation](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/08-50-From-Wave-Animation)
  A project to create a wave animation on the form label.
+ 
  This project was created with HTML, CSS and JS.
  
  ![chrome-capture-2023-1-16 (8)](https://user-images.githubusercontent.com/110612670/219349705-73b9822f-54d4-4a59-9728-a35da58c7e9c.gif)
@@ -63,6 +68,7 @@ This project was built with HTML, CSS and JS.
 
 ## [09-50-Sound Board](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/09-50-Sound-Board)
 A soundboard with different sounds attatched to multiple buttons that play upon being pressed.
+
 This project was created with HTML, CSS and JS.
 
 To hear the sound, try the project out for yourself.
@@ -72,6 +78,7 @@ To hear the sound, try the project out for yourself.
 
 ## [10-50-Dad-Jokes](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/10-50-Dad-Jokes)
  A project that pulls jokes from an API and displays them to the user upon clicking the button.
+ 
  This project is built with HTML, CSS and JS.
  
  ![chrome-capture-2023-1-16 (9)](https://user-images.githubusercontent.com/110612670/219352871-7fb7d011-8862-4163-a2c4-771f71cae787.gif)
@@ -79,6 +86,7 @@ To hear the sound, try the project out for yourself.
  
 ## [11-50-Event-KeyCodes](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/11-50-Event-KeyCodes)
  A project that displays the event key, event key code, and event code, of a key being pressed on the keyboard.
+ 
  This project is built with HTML, CSS and JS.
 
 ![chrome-capture-2023-1-16 (10)](https://user-images.githubusercontent.com/110612670/219353998-6acdd772-5620-46f5-8806-e3ec5cb078da.gif)
@@ -86,6 +94,7 @@ To hear the sound, try the project out for yourself.
 
 ## [12-50-FAQ-Collapse](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/12-50-FAQ-Collapse)
 A custom made accordian FAQ section.
+
 Made with HTML, CSS and JS.
 
 ![chrome-capture-2023-1-16 (11)](https://user-images.githubusercontent.com/110612670/219391071-b7eb0018-a6ff-4afc-a308-b5a02f60c4dd.gif)
@@ -93,6 +102,7 @@ Made with HTML, CSS and JS.
 
 ## [13-50-Random-Choice-Picker](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/13-50-Random-Choice-Picker)
  Add your choice you wish to be randomized, seperated by a comma and the push enter to get a random result.
+ 
 Made with HTML, CSS and JS.
 
 ![chrome-capture-2023-1-16 (12)](https://user-images.githubusercontent.com/110612670/219394744-e1ce1236-aa39-46c3-bc50-0609bde7444b.gif)
@@ -100,6 +110,7 @@ Made with HTML, CSS and JS.
 
 ## [14-50-Animated-Navigation](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/14-50-Animated-Navigation)
  An animated slide out menu from an icon.
+ 
  Written in HTML, CSS and JS.
 
 ![chrome-capture-2023-1-16 (13)](https://user-images.githubusercontent.com/110612670/219399670-48cfb29a-d3c4-4cb1-b84e-0b169af5bf9b.gif)
@@ -107,6 +118,7 @@ Made with HTML, CSS and JS.
 
 ## [15-50-Incrementing-Counter](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/15-50-Incrementing-Counter)
  An incremental counter to display a number of a certain aspects you wish to display in a neat way.
+ 
  Made with HTML, CSS and JS.
 
 ![chrome-capture-2023-1-16 (14)](https://user-images.githubusercontent.com/110612670/219400728-5155d473-ad8a-421a-9f0e-d5d3c38b8390.gif)
@@ -114,6 +126,7 @@ Made with HTML, CSS and JS.
 
 ## [16-50-Drink-Water](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/16-50-Drink-Water)
  A water drinking tracker.
+ 
  Made with HTML, CSS and JS.
  
  ![chrome-capture-2023-1-16 (15)](https://user-images.githubusercontent.com/110612670/219402454-21dc8e91-7714-4e15-9675-b59d58a78697.gif)
@@ -121,7 +134,9 @@ Made with HTML, CSS and JS.
  
  ## [TM_17-of-50-Movie-App](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/17-50-Movie-App)
 A movie website that pull movie information from an API to display 20 movies.
+
 There is a basic search functionality, that pulls movies with contain the term that was searched for (up to 20 results).
+
 Made with HTML, CSS and JS.
 
 ![chrome-capture-2023-1-16 (17)](https://user-images.githubusercontent.com/110612670/219409438-516686bd-bca8-40ec-90c0-edb4c7ad19fb.gif)
@@ -129,6 +144,7 @@ Made with HTML, CSS and JS.
 
 ## [18-of-50-Background-Slider](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/18-50-Background-Slider)
 A background slider that has an overlay of the same image that gives the illusion that they are the same image.
+
 Made with HTML, CSS and JS.
 
 ![chrome-capture-2023-1-16 (18)](https://user-images.githubusercontent.com/110612670/219411255-626640f1-4759-4a3c-897c-d0aea310fd57.gif)
@@ -136,6 +152,7 @@ Made with HTML, CSS and JS.
 
 ## [19-of-50-Theme-Clock](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/19-50-Theme-Clock)
 A HTML, CSS and JS clock project, that pulls the date from Date().
+
 There is a toggle button which toggle a dark and light mode.
 
 ![chrome-capture-2023-1-16 (19)](https://user-images.githubusercontent.com/110612670/219412439-c34c3799-96f7-46f3-be36-ac3d9e25b064.gif)
@@ -143,6 +160,7 @@ There is a toggle button which toggle a dark and light mode.
 
 ## [20-50-Button-Ripple-Effect](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/20-50-Button-Ripple-Effect)
 This project uses HTML, CSS and JS to create a ripple effect when clicking the button. 
+
 The origin point of the reflect is dependent on where the user clicks the button.
 
 ![chrome-capture-2023-1-16 (20)](https://user-images.githubusercontent.com/110612670/219413858-1a57bcb4-51e6-4cf0-9722-efdd6cf18678.gif)
@@ -166,6 +184,7 @@ A drawing web based application that can do strokes of different sizes and color
 
 ## [23-50-Kinetic-CSS-Loader](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/23-50-Kinetic-CSS-Loader)
 A kinetic CSS loader that could be used for page transitions.
+
 Made with HTML and CSS.
 
 ![chrome-capture-2023-1-16 (22)](https://user-images.githubusercontent.com/110612670/219423368-11357238-d57d-4aec-a5d5-822d94bfeec4.gif)
@@ -192,7 +211,16 @@ A project built with HTML, CSS and JS that creates a double vertical slider, tha
 
 ## [27-50-Toast-Notifications](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/27-50-Toast-Notifications)
 A project to just demonstrate "toast" type notifications for a user built with HTML, CSS and JS.
+
 This is just to show an example of how you could go about it.
 
 ![chrome-capture-2023-1-16](https://user-images.githubusercontent.com/110612670/219331309-3aa51306-bda3-4823-8e99-b6d7e1987018.gif)
+#
+
+## [28-50-Github-Profiles](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/28-50-Github-Profiles)
+A project that pull Github profiles and their repos using the Github API and controlling it with Axios.
+
+Built with HTML, CSS and JS.
+
+![chrome-capture-2023-1-17](https://user-images.githubusercontent.com/110612670/219628965-27644fbe-f1a7-446a-96de-e3cee638eab0.gif)
 #
