@@ -6,10 +6,12 @@ This course is on [Udemy](https://www.udemy.com/course/50-projects-50-days/)
 #
 
 ## Instructions
-Nothing fancy to do. Just download the file, open whichever porject you want and open the index.html in a browser of your choice.
+Nothing fancy to do. 
 
-View the projects below:
+Just download the file, open whichever porject you want and open the index.html in a browser of your choice.
+
 #
+## View the projects below:
 
 ## [01-of-50-Expanding-Cards](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/01-50-Expanding-Cards)
 Expanding cards that use an active class to shift between the focus of the card.
