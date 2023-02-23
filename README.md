@@ -5,6 +5,9 @@ A course by [Brad Traversy](https://www.traversymedia.com)
 This course is on [Udemy](https://www.udemy.com/course/50-projects-50-days/)
 #
 
+## Instructions
+Nothing fancy to do. Just download the file, open whichever porject you want and open the index.html in a browser of your choice.
+
 View the projects below:
 #
 
