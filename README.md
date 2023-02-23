@@ -227,7 +227,7 @@ Built with HTML, CSS and JS.
 ![chrome-capture-2023-1-17](https://user-images.githubusercontent.com/110612670/219628965-27644fbe-f1a7-446a-96de-e3cee638eab0.gif)
 #
 
-## 29-50-Double-Click-Heeart
+## [29-50-Double-Click-Heart](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/29-50-Double-Heart-Click)
 A project that does the feature that instagram does (and probably others) whereby you double click and a heart appears.
 
 The heart grows and dissapears on the location of being clicked, afterwhich it is removed from the DOM.
