@@ -1,4 +1,4 @@
-## 29-50-Double-Click-Heeart
+## 29-50-Double-Click-Heart
 A project that does the feature that instagram does (and probably others) whereby you double click and a heart appears.
 
 The heart grows and dissapears on the location of being clicked, afterwhich it is removed from the DOM.
