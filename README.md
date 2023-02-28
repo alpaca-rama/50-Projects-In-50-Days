@@ -251,3 +251,15 @@ The project was built with HTML, CSS and JS.
 
 ![chrome-capture-2023-1-27](https://user-images.githubusercontent.com/110612670/221525352-c57b493b-6a54-4e09-be76-da60a3c69883.gif)
 #
+
+## [31-50-Password-Generator](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/31-50-Password-Generator)
+A project to generate passwords for the user.
+
+The user can choose the length of the password, choose what should be included in the password (ie uppercase, lowercase, number and/or symbol).
+
+The password can be copy to the clipboard and an alert will appear to confirm the copy.
+
+The project was created using HTML, CSS and JS.
+
+![chrome-capture-2023-1-28](https://user-images.githubusercontent.com/110612670/221797851-27ee1088-93c4-4997-ab95-a7cc71dbb008.gif)
+#
