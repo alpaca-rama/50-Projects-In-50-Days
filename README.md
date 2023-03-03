@@ -284,3 +284,13 @@ There is a library used for marking up the text if used correctly. The library i
 ![chrome-capture-2023-2-2](https://user-images.githubusercontent.com/110612670/222374891-b1fab844-894f-40df-acca-cbac87c4b09c.gif)
 ![chrome-capture-2023-2-2 (1)](https://user-images.githubusercontent.com/110612670/222374918-0acbc70e-524f-463b-9b7d-181532ba0cea.gif)
 #
+
+## [34-50-Animated-Countdown](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/34-50-Animated-Countdown)
+A project that has an animated countdown being rotated and scaled.
+
+It could be used as a loading animation.
+
+The project was built with HTML, CSS and JS.
+
+![chrome-capture-2023-2-3](https://user-images.githubusercontent.com/110612670/222710717-6ce47cc2-f3c4-4b2c-81f9-d015b3af7d0e.gif)
+#
