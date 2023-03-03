@@ -273,3 +273,14 @@ The project was built with HTML, CSS and JS.
 
 ![chrome-capture-2023-1-28 (1)](https://user-images.githubusercontent.com/110612670/221806245-cd4381b5-f66d-4ae7-9264-1e6e529fe9e6.gif)
 #
+
+## [33-50-Notes-App](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/33-50-Notes-App)
+A note taking website that is created with HTML, CSS and JS.
+
+The project uses local storage to retain the information of the user.
+
+There is a library used for marking up the text if used correctly. The library is [Marked](https://cdnjs.com/libraries/marked).
+
+![chrome-capture-2023-2-2](https://user-images.githubusercontent.com/110612670/222374891-b1fab844-894f-40df-acca-cbac87c4b09c.gif)
+![chrome-capture-2023-2-2 (1)](https://user-images.githubusercontent.com/110612670/222374918-0acbc70e-524f-463b-9b7d-181532ba0cea.gif)
+#
