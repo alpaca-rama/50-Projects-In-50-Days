@@ -338,3 +338,13 @@ This project was built with HTML, CSS and JS.
 
 ![chrome-capture-2023-2-9](https://user-images.githubusercontent.com/110612670/223964954-cf9ea9a7-ae6c-4b2d-b4aa-7be4b1574361.gif)
 #
+
+## [39-50-Password-Strength-Background](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/39-50-Password-Strength-Background)
+This project test the password strength by looking at the length.
+
+As the password length grows the background image becomes less blurred and eventually will have no blur.
+
+The project was built with HTML that included some [Tailwind (v1.8.11)](https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/1.8.11/tailwind.min.css) (very old), CSS and JS.
+
+![chrome-capture-2023-2-9 (1)](https://user-images.githubusercontent.com/110612670/223972543-78edad0a-4fbc-4b72-908e-81ce42e29dbf.gif)
+#
