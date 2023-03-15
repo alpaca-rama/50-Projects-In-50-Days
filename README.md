@@ -380,3 +380,13 @@ The project was built with HTML, CSS and JS.
 
 ![chrome-capture-2023-2-15](https://user-images.githubusercontent.com/110612670/225324644-c78cb403-005c-444a-9144-47ba22ce2e74.gif)
 #
+
+## [43-50-Feedback-UI-Design](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/43-50-Feedback-UI-Design)
+This project creates a user feedback UI without its full functionality.
+
+The user chooses their option and submits. The main div then replaces its inner HTML with the chosen feedback plus message.
+
+The project was created with HTML, CSS and JS.
+
+![chrome-capture-2023-2-15 (1)](https://user-images.githubusercontent.com/110612670/225374321-fc4fd8fc-30bc-4df9-a836-b1fcfca13c4a.gif)
+#
