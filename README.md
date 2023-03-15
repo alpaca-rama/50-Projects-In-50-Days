@@ -390,3 +390,13 @@ The project was created with HTML, CSS and JS.
 
 ![chrome-capture-2023-2-15 (1)](https://user-images.githubusercontent.com/110612670/225374321-fc4fd8fc-30bc-4df9-a836-b1fcfca13c4a.gif)
 #
+
+## [44-50-Custom-Range-Slider](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/44-50-Custom-Range-Slider)
+This project created a custom range slider with extra effects through JS.
+
+There is added support in the CSS file to handle different browsers for the range input.
+
+The project was created with HTML, CSS and JS.
+
+![chrome-capture-2023-2-15 (2)](https://user-images.githubusercontent.com/110612670/225397101-4ca5dc63-e58c-4e50-9a40-bc55ebf762f8.gif)
+#
