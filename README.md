@@ -368,3 +368,15 @@ The project is made with HTML, CSS and JS.
 
 ![chrome-capture-2023-2-15 (1)](https://user-images.githubusercontent.com/110612670/225264770-19cf5b91-24c1-45dc-b02d-82feedb27237.gif)
 #
+
+## [42-50-Live-User-Filter](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/42-50-Live-User-Filter)
+A project that pulls user information from the [RandomUser API](https://randomuser.me).
+
+The user profile picture, name and location are displayed.
+
+The user can then search through this list in the input and the results will show any of the coressponding matches with on of the above.
+
+The project was built with HTML, CSS and JS.
+
+![chrome-capture-2023-2-15](https://user-images.githubusercontent.com/110612670/225324644-c78cb403-005c-444a-9144-47ba22ce2e74.gif)
+#
