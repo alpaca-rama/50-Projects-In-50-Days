@@ -77,7 +77,7 @@ body {
     background-color: #fff;
     height: 4px;
     width: 100%;
-    animation: grow 2s linear infinite;
+    animation: grow 2s linear infinite; /* change the s here to change the progress bar time */
     transform-origin: left;
 }
 
