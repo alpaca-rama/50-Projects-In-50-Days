@@ -416,3 +416,13 @@ The project was created with HTML, CSS and JS.
 
 ![chrome-capture-2023-2-16 (1)](https://user-images.githubusercontent.com/110612670/225634375-874b6d6e-40f4-4c9c-b47d-cc0b7ba0c502.gif)
 #
+
+## [47-50-Testimonial-Box-Switcher](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/47-50-Testimonial-Box-Switcher)
+A project that displays people's testimonials over a duration (the gif, below, is set to 2s) and shows a progress bar over the same duration.
+
+This value can be easily changed in the style.css and the scipt.js.
+
+The project is built with HTML, CSS and JS
+
+![chrome-capture-2023-2-17](https://user-images.githubusercontent.com/110612670/225851003-f33e4436-09bb-4253-82e8-48ec23a1b360.gif)
+#
