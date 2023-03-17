@@ -5,6 +5,12 @@ A course by [Brad Traversy](https://www.traversymedia.com)
 This course is on [Udemy](https://www.udemy.com/course/50-projects-50-days/)
 #
 
+# My Review
+This course has a lot cool features that could/can be used in projects of your own. 
+There is a few outdated pieces of code but they were easily resolved through the comment section on that lecture. There is some silly projects but most of it I enjoyed.
+
+⭐️⭐️⭐️⭐️
+
 ## Instructions
 Nothing fancy to do. 
 
