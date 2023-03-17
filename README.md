@@ -434,3 +434,14 @@ This project is built using HTML, CSS and JS.
 
 ![chrome-capture-2023-2-17 (1)](https://user-images.githubusercontent.com/110612670/225855735-5316513a-aad7-444b-a958-2316ddabefba.gif)
 #
+
+## [49-50-Todo-List](https://github.com/alpaca-rama/50-Projects-In-50-Days/tree/main/49-50-Todo-List)
+This project creates a basic todo list that has left and right click functionality
+
+The left click toggles the todo to be completed or not.
+The right click deltes the todo.
+
+THe project makes use of localstorage, to store the todos even after refresh.
+
+![chrome-capture-2023-2-17 (2)](https://user-images.githubusercontent.com/110612670/225873273-3c89937d-bf70-454b-9944-afeb10288de6.gif)
+#
