@@ -75,4 +75,4 @@ function updateTestimonial() {
     }
 }
 
-setInterval(updateTestimonial, 2000)
+setInterval(updateTestimonial, 2000) // Change the second value to change the duration of the content change.
